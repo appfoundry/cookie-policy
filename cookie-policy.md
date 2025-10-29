@@ -1,21 +1,23 @@
 ## Cookie Statement
 
-AppFoundry is committed to your privacy and processing of your personal data. We therefore make every effort to explain plainly and clearly with this cookie statement which cookies we use on our website and how we collect personal data. We also explain what we use them for and what your rights are in this respect.
+Buzzworks is committed to your privacy and processing of your personal data. We therefore make every effort to explain plainly and clearly with this cookie statement which cookies we use on our website and how we collect personal data. We also explain what we use them for and what your rights are in this respect.
 
 When you visit our website, we may process personal data using online techniques such as cookies, trackers, scripts, and similar technologies (hereinafter referred to as "cookie(s)"). In principle, however, these technologies always serve the same purpose: the retrieval and tracking of information on your device, so throughout this cookie statement we will continue to use the well-known term: 'cookie(s)'. They can be (1) essential cookies that are strictly necessary to send a message via an electronic communications network, to ensure the security of our website or to store information about the provision of a service that you expressly requested; (2) functional cookies that further shape your use of our website; (3) analytical cookies to measure and analyse your use of our website; (4) marketing cookies to deliver (personalised) advertisements; and (5) other third-party cookies that we allow on our website.
 
-The version of this cookie statement (version: 1.00) dates from 05/04/2023.
+The version of this cookie statement (version: 1.1) dates from 29/10/2025.
 
 ### Scope
 
 This cookie declaration applies to:
 
+- [buzzworks.be] (https://buzzworks.be/)
 - [appfoundry.be](https://appfoundry.be/)
 - [fabrikate.be](https://fabrikate.be/)
 
+  
 ### Who implies “we”?
 
-“We”, or “our” AppFoundry with registered office in Veldkant 33A, 2550 Kontich, with business registration number BE0557976959.
+“We”, or “our” Buzzworks with registered office in Veldkant 33A, 2550 Kontich, with business registration number BE0557976959.
 
 If you have any questions, comments or complaints regarding this cookie statement or the processing of your personal data or wish to exercise any of your rights, please contact us by e-mail to [info@appfoundry.be](mailto:info@fabrikate.be).
 

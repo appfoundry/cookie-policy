@@ -10,7 +10,7 @@ The version of this cookie statement (version: 1.1) dates from 29/10/2025.
 
 This cookie declaration applies to:
 
-- [buzzworks.be] (https://buzzworks.be/)
+- [buzzworks.be](https://buzzworks.be/)
 - [appfoundry.be](https://appfoundry.be/)
 - [fabrikate.be](https://fabrikate.be/)
 
